@@ -1,1 +1,3 @@
 print("gooodbuy");
+print("gooodbuy");
+print("gooodbuy");print("gooodbuy");
