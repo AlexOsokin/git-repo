@@ -1,3 +1,9 @@
 print("Hallo world");
 print("Hallo all");
+<<<<<<< HEAD
 print("Hallo - привет");
+=======
+
+
+231453657859
+>>>>>>> qwert
