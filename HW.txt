@@ -1,3 +1,0 @@
-print("Hallo world");
-print("Hallo all");
-print("Hallo - привет");
